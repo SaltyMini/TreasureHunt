@@ -1,0 +1,7 @@
+name: TreasureHunt
+version: ${project.version}
+main: TreasureHunt.Main
+api-version: 1.17
+authors: [ Salty ]
+description: Treasure Hunt Plugin
+website: Dragonfallmc.com
